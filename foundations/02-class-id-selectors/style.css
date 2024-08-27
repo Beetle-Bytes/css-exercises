@@ -11,3 +11,9 @@
 .birds-of-a-feather.ringleader {
     font-size: 24px;
 }
+
+.odd-one-out {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
